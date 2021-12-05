@@ -1,4 +1,3 @@
-
 # NUM_ANALYSIS
 TP2 Interpolation Numérique 
  NUM_ANALYSIS
