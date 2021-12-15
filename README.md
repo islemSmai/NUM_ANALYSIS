@@ -1,6 +1,4 @@
 # NUM_ANALYSIS
-TP1 ANALYSE
- NUM_ANALYSIS
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/islem-go/NUM_ANALYSIS/main)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -8,6 +6,9 @@ TP1 ANALYSE
 
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
+- [TP1](#TP1)
+- [TP2](#TP2)
+- [TP3](#TP3)
 
 
 
@@ -21,13 +22,12 @@ TP1 ANALYSE
 * [Jupyter]
 
 ## Getting started 
-> Dans ce TP, nous allons decouvrir la programmation avec Python et Matlab/Octave
-> On va installer Anaconda et Octave en local
-> On va aussi ajouter le kernel d'octave/Matlab à jupyter notebook
+Dans ces Travaux Pratique , nous allons decouvrir les parties suivantes :
++ Dans le TP1: nous avons découvert la programmation avec Python et la résolution de equation f(x)=0 on utilisant dichotomie
++ Dans le TP2: - nous avons découvert l'interplolation polynômiale
+               - nous avons créé une methode qui calculer le polynôme d'interpolation de Lagrange
 
-
-
-
++ Dans le TP3: nous avons découvert intégration numérique
 
 
 
