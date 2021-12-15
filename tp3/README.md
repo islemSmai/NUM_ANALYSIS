@@ -1,7 +1,7 @@
 
 # TP3 Interpolation Numérique 
  NUM_ANALYSIS
-<img src="anim.gif" alt="HTML tutorial" style="width:300px;height:300px;">
+<img src="anim.gif" alt="HTML tutorial" style="width:1000px;height:1000px;">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
