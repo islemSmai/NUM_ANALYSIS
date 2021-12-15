@@ -7,3 +7,9 @@ dependencies:
   - sympy
   - pip:
     - ipympl
+  -quad
+  -ipywidgets
+  -interact 
+  -interactive
+  -fixed
+  -interact_manual
