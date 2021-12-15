@@ -22,7 +22,7 @@
 Dans ces Travaux Pratique , nous allons decouvrir les parties suivantes :
 + Dans le TP1: nous avons découvert la programmation avec Python et la résolution de equation f(x)=0 on utilisant dichotomie
 + Dans le TP2: - nous avons découvert l'interplolation polynômiale
-               - nous avons créé une methode qui calculer le polynôme d'interpolation de Lagrange
+     <br>          - nous avons créé une methode qui calculer le polynôme d'interpolation de Lagrange
 
 + Dans le TP3: nous avons découvert intégration numérique
 
