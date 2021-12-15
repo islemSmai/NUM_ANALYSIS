@@ -24,9 +24,9 @@ TP2 Interpolation Numérique
 ## Getting started 
 > Dans ce TP2,  nous avons découvert la programmation avec Python :
 > <ul>
-><li><br> nous avons créé <u>une methode qui calculer le polynôme d'interpolation de Lagrange</u>
-><li><br> nous avons dessinée <u>le graph de cette polynôme</u>
-><li><br> nous avons développé la fonction de la polynôme de Newton
+><li> nous avons créé <u>une methode qui calculer le polynôme d'interpolation de Lagrange</u>
+><li> nous avons dessinée <u>le graph de cette polynôme</u>
+><li> nous avons développé la fonction de la polynôme de Newton
 </ul>
 
 
