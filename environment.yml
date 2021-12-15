@@ -4,12 +4,6 @@ dependencies:
   - matplotlib
   - numpy
   - ipywidgets
-  - sympy
+  -scipy
   - pip:
     - ipympl
-  -quad
-  -ipywidgets
-  -interact 
-  -interactive
-  -fixed
-  -interact_manual
