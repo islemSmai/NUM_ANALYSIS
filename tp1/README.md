@@ -14,7 +14,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
-
+<span style="color:blue">some *blue* text</span>.
 * [ANACONDA For windows ]
 * [Octave]
 * [Jupyter]
