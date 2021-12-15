@@ -14,11 +14,11 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
-* !<color:red> [ANACONDA For windows ]</color:red>
-* ![Red text][Octave]
-* ![Red text][Jupyter]
+* [ANACONDA For windows ]
+* [Octave]
+* [Jupyter]
 
-## <font color="LightCoral">Getting started</font>  
+## Getting started
 ><br>Dans ce TP, nous avons découvert la programmation avec Python et Matlab/Octave,installer Anaconda et Octave en local et ajoute le kernel d'octave/Matlab à jupyter notebook.
 ><br>nous avons développé une fonction <u>Horner</u> sous Python qui prend en entrée la liste des coefficients d'un polynôme P et un réel x, et qui retourne P(x).
 ><br>et la méthode <u>dichotomie</u> qui est pour but d'encadrer une solution à une équation
