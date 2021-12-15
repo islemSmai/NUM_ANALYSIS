@@ -2,7 +2,7 @@
 TP2 Interpolation Numérique 
  NUM_ANALYSIS
 [![Binder](1044426.png)](https://mybinder.org/v2/gh/islem-go/NUM_ANALYSIS/main)
-[![Binder](https://mybinder.org/1044426.png)](https://mybinder.org/v2/gh/islem-go/NUM_ANALYSIS/HEAD?labpath=TP2_E.ipynb)
+[![Binder](1044426.png)](https://mybinder.org/v2/gh/islem-go/NUM_ANALYSIS/HEAD?labpath=TP2_E.ipynb)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
