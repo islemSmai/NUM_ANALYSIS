@@ -1,5 +1,4 @@
-<h1 style="color:DodgerBlue;">TP1 :ANALYSE NUMERIQUE</h1>
-<h3 style="color:Tomato;">Hello World</h3>
+<font color =blue>TP1 :ANALYSE NUMERIQUE</font>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/islem-go/NUM_ANALYSIS/HEAD?labpath=TP1_E.ipynb)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
